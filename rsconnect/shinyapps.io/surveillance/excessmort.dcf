@@ -5,10 +5,10 @@ account: surveillance
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3375814
-bundleId: 5582917
+bundleId: 5582921
 url: https://surveillance.shinyapps.io/excessmort/
-when: 1644962994.49111
-lastSyncTime: 1644962994.49113
+when: 1644963063.98732
+lastSyncTime: 1644963063.98733
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: LICENSE|README.md
